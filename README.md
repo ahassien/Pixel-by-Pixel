@@ -3,7 +3,9 @@
 # Pixel-by-Pixel
 A generative art challenge was issued in the April 2023 issue of CHANCE. For this challenge, readers were asked to use their brains and computational skills to create generative art. This challenge encouraged contestants to showcase the skills and knowledge of data science while highlighting the creative applications of the discipline. 
 
-My generative interpretation of Vincent Van Gogh's "Olive Trees" won the student category and was featured on the cover of CHANCE magazine Volume 37 Issue 2. 
+My generative interpretation of Vincent Van Gogh's "Olive Trees" won the student category and was featured on the cover of [CHANCE magazine Volume 37 Issue 2](https://www.tandfonline.com/doi/full/10.1080/09332480.2024.2348951). 
+
+https://www.tandfonline.com/doi/full/10.1080/09332480.2024.2348951
 
 I used flow fields to create dynamic curves that emulate the style of not only Van Gogh’s “Olive Trees” but also his other works such as “Starry Night.” In my artwork, the soothing color palettes for the sky, mountains, trees, and grass were based on true colors from the painting.
 
